@@ -1,0 +1,8 @@
+{
+  "name": "VarsityPath",
+  "description": "Education platform for Grade 11–12 students in the Western Cape, South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
